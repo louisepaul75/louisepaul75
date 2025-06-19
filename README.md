@@ -18,8 +18,11 @@ I'm a passionate AI/ML Full Stack developer skilled in Python, Node.js, SQL, and
 
 ## 🛠️ Top Skills
 - **Languages:** Python, JavaScript (Node.js)
-- **Frameworks:** MERN Stack (MongoDB, Express, React, Node)
-- **Database:** SQL
+- **Frameworks:** MERN Stack (MongoDB, Express, React, Node), Django, Flask, FastAPI
+- **Database:** MySQL, PostgreSQL, MongoDB
+- **Cloud:** AWS
+- **CI/CD:** Github Action
+
 
 ---
 
